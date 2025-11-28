@@ -34,7 +34,7 @@ Usage
 
     Run the tool:
 
-        ./nmad.sh
+        simply type "nmad"
 
     Follow the prompts to:
 
